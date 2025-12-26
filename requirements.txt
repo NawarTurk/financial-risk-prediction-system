@@ -6,3 +6,4 @@ seaborn
 jupter
 xgboost
 joblib
+ipykernel
